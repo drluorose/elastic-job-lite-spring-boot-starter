@@ -1,0 +1,3 @@
+com/dangdang/elasticjob/lite/annotation/ElasticDataflowJob.class
+com/dangdang/elasticjob/lite/annotation/ElasticSimpleJob.class
+com/dangdang/elasticjob/lite/autoconfigure/ElasticJobAutoConfiguration.class
